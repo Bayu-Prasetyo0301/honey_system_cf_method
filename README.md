@@ -18,7 +18,14 @@ Hasil rekomendasi disajikan dalam bentuk **persentase tingkat keyakinan**, lengk
 - **Menu Home**  
   Halaman utama sistem dengan informasi umum.<br>
 <img width="1024" height="464" alt="image" src="https://github.com/user-attachments/assets/3c1c740d-25d3-418a-a5a9-ec6c4067d296" />
-           <img width="625" height="765" alt="image" src="https://github.com/user-attachments/assets/ebb5559c-bfdd-40e5-af23-5a7aaf576f26" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/ebb5559c-bfdd-40e5-af23-5a7aaf576f26"
+    alt="Tampilan Sistem Rekomendasi Madu"
+    width="625"
+    height="765"
+  />
+</p>
 
 - **Menu Konsultasi dan pilih skala keyakinan**  
   Pengguna mengisi data diri dan memilih gejala kesehatan serta memilih skala keyakinan pengguna (misalnya: *Tidak Yakin* hingga *Sangat Yakin*).<br>
