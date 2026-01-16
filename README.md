@@ -30,7 +30,9 @@ Hasil rekomendasi disajikan dalam bentuk **persentase tingkat keyakinan**, lengk
   - Rekomendasi jenis madu
   - Deskripsi dan manfaat madu
 <img width="762" height="194" alt="image" src="https://github.com/user-attachments/assets/30b20ab9-7ed3-409d-a6b0-5c68eda79990" />
+
 <img width="756" height="776" alt="image" src="https://github.com/user-attachments/assets/357fda09-6bb6-49a6-b22b-2cee3af41378" />
+
 <img width="750" height="804" alt="image" src="https://github.com/user-attachments/assets/e2b522f7-d1ac-4acc-8975-0d8b167c71e8" />
 
 - **Menu Petunjuk**  
