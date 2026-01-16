@@ -23,7 +23,7 @@ Hasil rekomendasi disajikan dalam bentuk **persentase tingkat keyakinan**, lengk
 - **Menu Konsultasi dan pilih skala keyakinan**  
   Pengguna mengisi data diri dan memilih gejala kesehatan serta memilih skala keyakinan pengguna (misalnya: *Tidak Yakin* hingga *Sangat Yakin*).<br>
   
-  <img width="844" height="803" alt="image" src="https://github.com/user-attachments/assets/03429693-e336-436d-9a17-9283692d306f" />
+<img width="844" height="803" alt="image" src="https://github.com/user-attachments/assets/03429693-e336-436d-9a17-9283692d306f" />
   
 - **Hasil Diagnosis**  
   Menampilkan:
@@ -39,7 +39,7 @@ Hasil rekomendasi disajikan dalam bentuk **persentase tingkat keyakinan**, lengk
 
 - **Menu Petunjuk**  
   Panduan penggunaan sistem.<br>
-  <img width="613" height="872" alt="image" src="https://github.com/user-attachments/assets/da884fb4-2e81-4d7e-9f1c-48b4fc6a8296" />
+<img width="613" height="872" alt="image" src="https://github.com/user-attachments/assets/da884fb4-2e81-4d7e-9f1c-48b4fc6a8296" />
 
 - **Menu Tentang**  
   Informasi singkat tentang sistem dan toko madu.<br>
@@ -47,7 +47,7 @@ Hasil rekomendasi disajikan dalam bentuk **persentase tingkat keyakinan**, lengk
 
 - **Menu Developer**  
   Informasi mengenai pembuat/penerapan sistem.<br>
-  <img width="1125" height="834" alt="image" src="https://github.com/user-attachments/assets/24fa54c1-578e-46e6-a56d-28d4f78eb168" />
+<img width="1125" height="834" alt="image" src="https://github.com/user-attachments/assets/24fa54c1-578e-46e6-a56d-28d4f78eb168" />
 
 ---
 
@@ -61,7 +61,7 @@ Hasil rekomendasi disajikan dalam bentuk **persentase tingkat keyakinan**, lengk
 <img width="1905" height="500" alt="image" src="https://github.com/user-attachments/assets/6e0f15c3-7bfc-4370-a8df-58cb0c5b2a60" />
   
 - **Pengelolaan Data Gejala**<br>
-  <img width="1896" height="919" alt="image" src="https://github.com/user-attachments/assets/878a32da-3ddd-4b61-ae93-344a875c5194" />
+<img width="1896" height="919" alt="image" src="https://github.com/user-attachments/assets/878a32da-3ddd-4b61-ae93-344a875c5194" />
   
 - **Pengelolaan Data Solusi (Jenis Madu)**
   - Nama madu
