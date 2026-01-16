@@ -21,7 +21,8 @@ Hasil rekomendasi disajikan dalam bentuk **persentase tingkat keyakinan**, lengk
 <img width="625" height="765" alt="image" src="https://github.com/user-attachments/assets/ebb5559c-bfdd-40e5-af23-5a7aaf576f26" />
 
 - **Menu Konsultasi dan pilih skala keyakinan**  
-  Pengguna mengisi data diri dan memilih gejala kesehatan serta memilih skala keyakinan pengguna (misalnya: *Tidak Yakin* hingga *Sangat Yakin*).
+  Pengguna mengisi data diri dan memilih gejala kesehatan serta memilih skala keyakinan pengguna (misalnya: *Tidak Yakin* hingga *Sangat Yakin*).<br>
+  
   <img width="844" height="803" alt="image" src="https://github.com/user-attachments/assets/03429693-e336-436d-9a17-9283692d306f" />
   
 - **Hasil Diagnosis**  
@@ -29,10 +30,10 @@ Hasil rekomendasi disajikan dalam bentuk **persentase tingkat keyakinan**, lengk
   - Persentase tingkat keyakinan sistem
   - Rekomendasi jenis madu
   - Deskripsi dan manfaat madu
+    
 <img width="762" height="194" alt="image" src="https://github.com/user-attachments/assets/30b20ab9-7ed3-409d-a6b0-5c68eda79990" />
 
-<img width="756" height="776" alt="image" src="https://github.com/user-attachments/assets/357fda09-6bb6-49a6-b22b-2cee3af41378" />
-
+<img width="756" height="776" alt="image" src="https://github.com/user-attachments/assets/357fda09-6bb6-49a6-b22b-2cee3af41378" /><br>
 
 <img width="750" height="804" alt="image" src="https://github.com/user-attachments/assets/e2b522f7-d1ac-4acc-8975-0d8b167c71e8" />
 
