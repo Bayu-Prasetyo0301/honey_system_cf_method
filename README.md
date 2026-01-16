@@ -38,15 +38,15 @@ Hasil rekomendasi disajikan dalam bentuk **persentase tingkat keyakinan**, lengk
 <img width="750" height="804" alt="image" src="https://github.com/user-attachments/assets/e2b522f7-d1ac-4acc-8975-0d8b167c71e8" />
 
 - **Menu Petunjuk**  
-  Panduan penggunaan sistem.
+  Panduan penggunaan sistem.<br>
   <img width="613" height="872" alt="image" src="https://github.com/user-attachments/assets/da884fb4-2e81-4d7e-9f1c-48b4fc6a8296" />
 
 - **Menu Tentang**  
-  Informasi singkat tentang sistem dan toko madu.
+  Informasi singkat tentang sistem dan toko madu.<br>
 <img width="1211" height="730" alt="image" src="https://github.com/user-attachments/assets/60b36957-6f83-4c33-b61f-d10e68f501f7" />
 
 - **Menu Developer**  
-  Informasi mengenai pembuat/penerapan sistem.
+  Informasi mengenai pembuat/penerapan sistem.<br>
   <img width="1125" height="834" alt="image" src="https://github.com/user-attachments/assets/24fa54c1-578e-46e6-a56d-28d4f78eb168" />
 
 ---
@@ -56,24 +56,24 @@ Hasil rekomendasi disajikan dalam bentuk **persentase tingkat keyakinan**, lengk
   - Total data gejala
   - Total data solusi (jenis madu)
   - Total rule (aturan)
-  - Riwayat konsultasi
-<img width="1885" height="554" alt="image" src="https://github.com/user-attachments/assets/37d91285-f5a6-4aee-b1fb-295d43271b04" />
+  - Riwayat konsultasi <br>
+<img width="1885" height="554" alt="image" src="https://github.com/user-attachments/assets/37d91285-f5a6-4aee-b1fb-295d43271b04" /><br>
 <img width="1905" height="500" alt="image" src="https://github.com/user-attachments/assets/6e0f15c3-7bfc-4370-a8df-58cb0c5b2a60" />
   
-- **Pengelolaan Data Gejala**
+- **Pengelolaan Data Gejala**<br>
   <img width="1896" height="919" alt="image" src="https://github.com/user-attachments/assets/878a32da-3ddd-4b61-ae93-344a875c5194" />
   
 - **Pengelolaan Data Solusi (Jenis Madu)**
   - Nama madu
   - Manfaat kesehatan
   - Deskripsi
-  - Harga
+  - Harga <br>
 <img width="1888" height="845" alt="image" src="https://github.com/user-attachments/assets/f868d771-a2e4-4cc2-bb0e-a4c8510eb331" />
 
 
 - **Pengelolaan Data Rule**
   - Aturan berbasis IF–THEN
-  - Nilai Certainty Factor dari pakar
+  - Nilai Certainty Factor dari pakar <br>
 <img width="1897" height="886" alt="image" src="https://github.com/user-attachments/assets/f29a370a-2fc6-4318-839c-5e84652874f8" />
 
 ---
