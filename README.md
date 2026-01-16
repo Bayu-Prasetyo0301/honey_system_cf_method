@@ -57,7 +57,7 @@ Hasil rekomendasi disajikan dalam bentuk **persentase tingkat keyakinan**, lengk
   - Total data solusi (jenis madu)
   - Total rule (aturan)
   - Riwayat konsultasi <br>
-<img width="1885" height="554" alt="image" src="https://github.com/user-attachments/assets/37d91285-f5a6-4aee-b1fb-295d43271b04" /><br>
+<img width="1885" height="554" alt="image" src="https://github.com/user-attachments/assets/37d91285-f5a6-4aee-b1fb-295d43271b04" />
 <img width="1905" height="500" alt="image" src="https://github.com/user-attachments/assets/6e0f15c3-7bfc-4370-a8df-58cb0c5b2a60" />
   
 - **Pengelolaan Data Gejala**<br>
